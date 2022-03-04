@@ -1,1 +1,1 @@
-# Group-project
+# This is a project about building a supervised learning model in python to predict the likelihood of a customer leaving the services of a bank. This is a binary classification problem where 0 indicates a customer still using the bank services and 1 representing a customer leaving the services.
